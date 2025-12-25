@@ -6,7 +6,7 @@
 ## Config
 
 ```bash
-  chain-ws-address = 127.0.0.1:8080
+  chain-ws-address = 127.0.0.1:9090
   chain-ws-unix = /tmp/metawax.sock
   chain-ws-threads = 4
 
